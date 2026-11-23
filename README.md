@@ -2,7 +2,7 @@
 
 47 videos in the supplied list. The four image-and-text entries (21–24) were excluded.
 
-**6 transcripts published. 41 complete transcripts unavailable in the recovered records.** The linked files use speech and timecodes preserved in the original Codex task. Entries 46 and 47 include surviving original ASR text. Single timecodes in entry 03 are original segment start times.
+**12 of 47 transcripts published.** 35 transcripts pending re-transcription. Entries marked re-transcribed use newly verified full audio tracks. Entries 46 and 47 include surviving original ASR text. Single timecodes in entry 03 are original segment start times.
 
 Audio sources were checked against their original video IDs. Automatic transcripts were checked with the on-screen text, a second speech recognition pass, and focused reviews of low-confidence sections. `[听不清]` marks words that could not be determined.
 
@@ -10,13 +10,13 @@ Video 12 was uploaded and filmed by 榴莲馆长. The original closing credits i
 
 | No. | Video title | Original link | Transcript status |
 | --- | --- | --- | --- |
-| 01 | 总有一篇课文会写进你的生命，成为你的一部分。这是我的故事。 | [Douyin](https://www.douyin.com/video/7129353552899624228) | Missing · complete transcript unavailable |
-| 02 | 年华已成无效信，少女情怀总是诗。高中没有一篇课文是充数的。 | [Douyin](https://www.douyin.com/video/7134873387184164104) | Missing · complete transcript unavailable |
+| 01 | 总有一篇课文会写进你的生命，成为你的一部分。这是我的故事。 | [Douyin](https://www.douyin.com/video/7129353552899624228) | [Published transcript](transcripts/01-%E6%80%BB%E6%9C%89%E4%B8%80%E7%AF%87%E8%AF%BE%E6%96%87%E4%BC%9A%E5%86%99%E8%BF%9B%E4%BD%A0%E7%9A%84%E7%94%9F%E5%91%BD%EF%BC%8C%E6%88%90%E4%B8%BA%E4%BD%A0%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86%E3%80%82%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B%E3%80%82.md) · re-transcribed |
+| 02 | 年华已成无效信，少女情怀总是诗。高中没有一篇课文是充数的。 | [Douyin](https://www.douyin.com/video/7134873387184164104) | [Published transcript](transcripts/02-%E5%B9%B4%E5%8D%8E%E5%B7%B2%E6%88%90%E6%97%A0%E6%95%88%E4%BF%A1%EF%BC%8C%E5%B0%91%E5%A5%B3%E6%83%85%E6%80%80%E6%80%BB%E6%98%AF%E8%AF%97%E3%80%82%E9%AB%98%E4%B8%AD%E6%B2%A1%E6%9C%89%E4%B8%80%E7%AF%87%E8%AF%BE%E6%96%87%E6%98%AF%E5%85%85%E6%95%B0%E7%9A%84%E3%80%82.md) · re-transcribed |
 | 03 | “少年不识诗中意，回眸已是诗中人”。这个故事，后劲真的有点大。 | [Douyin](https://www.douyin.com/video/7189049853958245691) | [Published transcript](transcripts/03-%E2%80%9C%E5%B0%91%E5%B9%B4%E4%B8%8D%E8%AF%86%E8%AF%97%E4%B8%AD%E6%84%8F%EF%BC%8C%E5%9B%9E%E7%9C%B8%E5%B7%B2%E6%98%AF%E8%AF%97%E4%B8%AD%E4%BA%BA%E2%80%9D%E3%80%82%E8%BF%99%E4%B8%AA%E6%95%85%E4%BA%8B%EF%BC%8C%E5%90%8E%E5%8A%B2%E7%9C%9F%E7%9A%84%E6%9C%89%E7%82%B9%E5%A4%A7%E3%80%82.md) |
-| 04 | 这个故事书只讲了一半，剩下的那半是我心底的秘密，现在告诉你。 | [Douyin](https://www.douyin.com/video/7205379208376307001) | Missing · complete transcript unavailable |
-| 05 | 太奶走前和我说了句意味深长的话，别人都说她糊涂了，可20年后我才明白… | [Douyin](https://www.douyin.com/video/7252186884552576315) | Missing · complete transcript unavailable |
-| 06 | 少年，你可知世间有两处“诗和远方”？一处叫“未曾去”，另一处叫“回不去”。 | [Douyin](https://www.douyin.com/video/7171350605397527838) | Missing · complete transcript unavailable |
-| 07 | “那个夏天，我走向你，像逆行的企鹅走向雪山” | [Douyin](https://www.douyin.com/video/7386198188325129491) | Missing · complete transcript unavailable |
+| 04 | 这个故事书只讲了一半，剩下的那半是我心底的秘密，现在告诉你。 | [Douyin](https://www.douyin.com/video/7205379208376307001) | [Published transcript](transcripts/04-%E8%BF%99%E4%B8%AA%E6%95%85%E4%BA%8B%E4%B9%A6%E5%8F%AA%E8%AE%B2%E4%BA%86%E4%B8%80%E5%8D%8A%EF%BC%8C%E5%89%A9%E4%B8%8B%E7%9A%84%E9%82%A3%E5%8D%8A%E6%98%AF%E6%88%91%E5%BF%83%E5%BA%95%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%8C%E7%8E%B0%E5%9C%A8%E5%91%8A%E8%AF%89%E4%BD%A0%E3%80%82.md) · re-transcribed |
+| 05 | 太奶走前和我说了句意味深长的话，别人都说她糊涂了，可20年后我才明白… | [Douyin](https://www.douyin.com/video/7252186884552576315) | [Published transcript](transcripts/05-%E5%A4%AA%E5%A5%B6%E8%B5%B0%E5%89%8D%E5%92%8C%E6%88%91%E8%AF%B4%E4%BA%86%E5%8F%A5%E6%84%8F%E5%91%B3%E6%B7%B1%E9%95%BF%E7%9A%84%E8%AF%9D%EF%BC%8C%E5%88%AB%E4%BA%BA%E9%83%BD%E8%AF%B4%E5%A5%B9%E7%B3%8A%E6%B6%82%E4%BA%86%EF%BC%8C%E5%8F%AF20%E5%B9%B4%E5%90%8E%E6%88%91%E6%89%8D%E6%98%8E%E7%99%BD%E2%80%A6.md) · re-transcribed |
+| 06 | 少年，你可知世间有两处“诗和远方”？一处叫“未曾去”，另一处叫“回不去”。 | [Douyin](https://www.douyin.com/video/7171350605397527838) | [Published transcript](transcripts/06-%E5%B0%91%E5%B9%B4%EF%BC%8C%E4%BD%A0%E5%8F%AF%E7%9F%A5%E4%B8%96%E9%97%B4%E6%9C%89%E4%B8%A4%E5%A4%84%E2%80%9C%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9%E2%80%9D%EF%BC%9F%E4%B8%80%E5%A4%84%E5%8F%AB%E2%80%9C%E6%9C%AA%E6%9B%BE%E5%8E%BB%E2%80%9D%EF%BC%8C%E5%8F%A6%E4%B8%80%E5%A4%84%E5%8F%AB%E2%80%9C%E5%9B%9E%E4%B8%8D%E5%8E%BB%E2%80%9D%E3%80%82.md) · re-transcribed |
+| 07 | “那个夏天，我走向你，像逆行的企鹅走向雪山” | [Douyin](https://www.douyin.com/video/7386198188325129491) | [Published transcript](transcripts/07-%E2%80%9C%E9%82%A3%E4%B8%AA%E5%A4%8F%E5%A4%A9%EF%BC%8C%E6%88%91%E8%B5%B0%E5%90%91%E4%BD%A0%EF%BC%8C%E5%83%8F%E9%80%86%E8%A1%8C%E7%9A%84%E4%BC%81%E9%B9%85%E8%B5%B0%E5%90%91%E9%9B%AA%E5%B1%B1%E2%80%9D.md) · re-transcribed |
 | 08 | 当时没敢和妈妈说，在我好女孩当腻的那个晚上… | [Douyin](https://www.douyin.com/video/7428427564462509331) | Missing · complete transcript unavailable |
 | 09 | 有人翻你如破书,有人读你胜完人 他若撕我一百页，我便再写一万篇 | [Douyin](https://www.douyin.com/video/7437402473666596150) | Missing · complete transcript unavailable |
 | 10 | 今天你看错我，没关系，可能明天还会。但如果想再一眼，我一直在 | [Douyin](https://www.douyin.com/video/7549781588499418406) | Missing · complete transcript unavailable |
